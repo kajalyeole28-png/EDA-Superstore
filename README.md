@@ -1,8 +1,9 @@
 # EDA-Superstore
-Exploratory Data Analysis on Superstore Sales Dataset using Python. 
+Exploratory Data Analysis on Superstore Sales Dataset using Python + Power BI Dashboard Project
 
 ## Project Overview
 This project performs Exploratory Data Analysis (EDA) on the Superstore dataset using Python.  
+Power BI for Interactive Business Dashboard.
 The objective is to analyze sales trends, customer segments, product performance, and profitability to generate business insights.
 
 ## Business Objectives
@@ -38,8 +39,13 @@ Missing value handling
 Duplicate check
 Univariate Analysis
 Bivariate Analysis
-Correlation Heatmap
-Sales & Profit Trend Analysis
-Regional & Segment Comparison
+
+## 📈 Key Insights from Python EDA
+Technology category generated highest overall profit.
+Some sub-categories showed consistent losses despite high sales.
+Higher discounts negatively impacted profitability.
+West region contributed the highest sales.
+Consumer segment dominated total orders.
+
 
 
